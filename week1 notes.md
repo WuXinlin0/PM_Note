@@ -27,33 +27,6 @@
 ##### √·页面名称中包含流程中的步骤
 
 
-# 下面是我们点评的网站
-### 1.
-![pic18](https://images.gitee.com/uploads/images/2020/0323/165958_c0808a03_2229190.png "42.png")
-![pic17](https://images.gitee.com/uploads/images/2020/0323/165932_59420d71_2229190.png "41.png")
-
-
-***
-
-### 2.
-![pic19](https://images.gitee.com/uploads/images/2020/0323/170019_48cd1586_2229190.png "43.png")
-![pic20](https://images.gitee.com/uploads/images/2020/0323/170030_68ada818_2229190.png "44.png")
-
-
-***
-
-### 3.
-![pic21](https://images.gitee.com/uploads/images/2020/0323/170045_3c67b1b5_2229190.png "45.png")
-![pic22](https://images.gitee.com/uploads/images/2020/0323/170054_fbaa90bf_2229190.png "46.png")
-
-
-***
-
-### 4.
-![pic23](https://images.gitee.com/uploads/images/2020/0323/170717_5424517d_2229190.png "47.png")
-![pic24](https://images.gitee.com/uploads/images/2020/0323/170728_6c8e08ab_2229190.png "48.png")
-
-
 ***
 ![pic3](https://images.gitee.com/uploads/images/2020/0320/233645_b7fed401_2229190.png "16.png")
 ### 使用标题传达含义和结构
@@ -124,3 +97,32 @@ CPP：万一发生车辆碰撞，公司指派的代表将寻求查明所涉各�
 ·部分批准的索赔-减少付款
 ·未确定的索偿-需要更多信息
 ·索赔被拒-不付款
+
+
+
+
+# 下面是我们点评的网站
+### 1.
+![pic18](https://images.gitee.com/uploads/images/2020/0323/165958_c0808a03_2229190.png "42.png")
+![pic17](https://images.gitee.com/uploads/images/2020/0323/165932_59420d71_2229190.png "41.png")
+
+
+***
+
+### 2.
+![pic19](https://images.gitee.com/uploads/images/2020/0323/170019_48cd1586_2229190.png "43.png")
+![pic20](https://images.gitee.com/uploads/images/2020/0323/170030_68ada818_2229190.png "44.png")
+
+
+***
+
+### 3.
+![pic21](https://images.gitee.com/uploads/images/2020/0323/170045_3c67b1b5_2229190.png "45.png")
+![pic22](https://images.gitee.com/uploads/images/2020/0323/170054_fbaa90bf_2229190.png "46.png")
+
+
+***
+
+### 4.
+![pic23](https://images.gitee.com/uploads/images/2020/0323/170717_5424517d_2229190.png "47.png")
+![pic24](https://images.gitee.com/uploads/images/2020/0323/170728_6c8e08ab_2229190.png "48.png")
